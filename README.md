@@ -10,7 +10,7 @@ Vas a crear un ciberperiódico, con imágenes dinámicas, y una distribución ol
 
 Dispones de un archivo en formato markdown y una imágen dinámica para cada noticia dentro de cada carpeta del repositorio.
 
-![](titulo.gif)
+![](assets/titulo.gif)
 
 ## Requisitos ##
 
@@ -22,7 +22,7 @@ Dispones de un archivo en formato markdown y una imágen dinámica para cada not
 
     - Display
 
-    - Modelo de cajas
+    - GRID
 
 #### ¡Mira [este ejemplo](https://codepen.io/silkine/full/QWBxVX) para inspirarte!
 
