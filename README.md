@@ -1,6 +1,6 @@
 # Gamma_News
 
-![Logotipo de GammaTech School](../../../assets/Logo_Yellow.png)
+![Logotipo de GammaTech School](assets/Logo_Yellow.png)
 
 # Gamma News
 
